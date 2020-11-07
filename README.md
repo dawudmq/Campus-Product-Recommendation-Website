@@ -1,16 +1,16 @@
 # sharing-website
 
-1.[aim]: 
+## 1.aim
 
-According to the usage habits of users in the school, commodities goods and reviews from the Internet to help college students buy items. 
+According to the usage habits of users in PKU, commodities goods and reviews from the Internet to help college students buy items. 
 
-2.[function]:
+## 2.function:
 
 commodities faceted display and query of items.
 
-3.[data introduction]:
+## 3.data introduction:
 
-(1)php query
+###(1)php query###
 db_connect.php:	Establish a database connection, you can change $ password to the database password of the machine.
 thfm_qury.php:Faceted query module
 strfm_qury.php：Comment faceted query module
