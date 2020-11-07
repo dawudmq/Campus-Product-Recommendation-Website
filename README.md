@@ -2,7 +2,7 @@
 
 ## 1.aim
 
-### (1)website goal:###
+### (1)website goal: ###
 According to the usage habits of users in PKU, commodities goods and reviews from the Internet to help college students buy items. 
 
 ### (2)requirements ###
@@ -26,7 +26,7 @@ commodities faceted display and query of items.
 
 ***qjdh_qury.php：***   Global navigation bar query module
 
-### (3)Page navigation components ###
+### (2)Page navigation components ###
 ***top_qjdh.php：***    Top global navigation
 
 ***foot_qjdh.php：***   Bottom global navigation
