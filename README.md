@@ -2,7 +2,7 @@
 
 ## 1.aim
 
-### (1)website goal: ###
+### (1)website goal ###
 According to the usage habits of users in PKU, commodities goods and reviews from the Internet to help college students buy items. 
 
 ### (2)requirements ###
@@ -11,11 +11,11 @@ The website has reasonable organization architecture, high user-friendly, and ca
 
 The interface is beautiful, the amount of information is appropriate and in line with the user's habits.
 
-## 2.function:
+## 2.function
 
-commodities faceted display and query of items.
+commodities faceted display and query of items.Focusing on products, you can locate the purchase channel of the product, and you can view other people's purchase reviews. This website is a customized website, but it can also be promoted to different schools for students to use.
 
-## 3.data introduction:
+## 3.data introduction
 
 ### (1)php query ###
 ***db_connect.php:***	Establish a database connection, you can change $ password to the database password of the machine.
